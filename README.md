@@ -14,7 +14,6 @@ Hacktoberfest22 project and codes
 ## `NOTE : Your Hacktoberfest-22 PR will count on or after 1-oct till 31-Oct`.
 
 
-## Contributors of `Hacktoberfest 2022`
 
 <div align="center">
 
